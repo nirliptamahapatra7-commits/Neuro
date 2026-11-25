@@ -167,7 +167,7 @@ streamlit run app.py
 ## 👨🏻‍💻 Contributors
 
 
-* **Abinash Giri** 
+* **Nirlipta Mahapatra** 
 
 
 ---
